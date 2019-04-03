@@ -12,7 +12,7 @@ env:
   CHEESE: EDAM
 
 # enable this flag to use knative serve to deploy the app
-knativeDeploy: false
+knativeDeploy: true
 
 service:
   name: nodey61
